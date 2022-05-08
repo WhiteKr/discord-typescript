@@ -10,5 +10,5 @@ export const Hello: Command = {
             ephemeral: true,
             content: 'Hello there!',
         });
-    }
+    },
 };
